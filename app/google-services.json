@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "12100099861",
+    "firebase_url": "https://crud-libreria-112d7-default-rtdb.firebaseio.com",
+    "project_id": "crud-libreria-112d7",
+    "storage_bucket": "crud-libreria-112d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12100099861:android:9006cfd69195e2e9b5931c",
+        "android_client_info": {
+          "package_name": "com.example.libreriafirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllLY2v9z_PPFxoZG7e6KGuO9RWHV1RaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
